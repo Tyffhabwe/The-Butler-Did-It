@@ -1,3 +1,7 @@
 .tab-link{
 	font-size: 28px;
 }
+.px-custom {
+  padding-left: ($spacer * 6) !important;
+  padding-right: ($spacer * 6) !important;
+}

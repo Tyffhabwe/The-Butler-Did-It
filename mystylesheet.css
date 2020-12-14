@@ -5,3 +5,14 @@
   padding-left: ($spacer * 6) !important;
   padding-right: ($spacer * 6) !important;
 }
+
+.paragraph{
+	font-size: 20px;
+}
+
+.img-thumbnail{
+	border:0;
+}
+.jumbotron{
+	background-color: white;
+}

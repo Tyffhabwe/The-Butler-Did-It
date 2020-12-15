@@ -11,8 +11,22 @@
 }
 
 .img-thumbnail{
-	border:0;
+	border: 0;
 }
 .jumbotron{
 	background-color: white;
+}
+.my-footer{
+	background-color: red;
+}
+.big-text{
+	font-size: 50px;
+	color: white;
+}
+.line{
+	border-color: white;
+}
+.less-big-text{
+	font-size: 45px;
+	color: white;
 }
